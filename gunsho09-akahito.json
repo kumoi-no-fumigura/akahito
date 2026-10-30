@@ -1,10 +1,15 @@
 {
- "work": "赤人集",
+ "work": "赤人集（群書類従本）",
  "work_id": "gunsho09-akahito",
  "repo": "kumoi-no-fumigura/akahito",
  "yomi": "あかひとしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "奈良時代（伝）",
+  "author": "山部赤人（伝）",
+  "desc": "山部赤人の作と伝える家集。『万葉集』の歌を平安時代の訓みで収めるほか、赤人以外の作も多く混じる。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -3624,6 +3629,6 @@
   "poems": 322,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
